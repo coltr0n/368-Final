@@ -1,3 +1,18 @@
 body {
 	background: gray;
+	
+	
 }
+
+
+a {
+	color: #F90;
+	text-decoration: none;	
+}
+
+
+img { height: 300px;
+	width: 350px;
+	padding: 0px 5px;
+	margin: 0px 5px;
+	
